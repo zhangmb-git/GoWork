@@ -1,0 +1,13 @@
+{
+    "go.buildOnSave": "package",
+    "go.buildFlags": ["-o","./test"],
+    "window.zoomLevel": 1,
+    "go.autocompleteUnimportedPackages": true,
+    "go.gocodePackageLookupMode": "go",
+    "go.gotoSymbol.includeImports": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.inferGopath": true,
+    "go.gopath":"D:\\GoWork",
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+
+}

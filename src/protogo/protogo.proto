@@ -1,0 +1,34 @@
+syntax = "proto2";
+option  optimize_for = LITE_RUNTIME;
+
+enum  CMD{
+   NONE =0;
+   TEST_QUERY_ROLE_INFO_REQ   =  1;
+   TEST_QUERY_ROLE_INFO_REQ   =  2;
+
+
+
+}
+
+
+
+
+
+
+
+message test
+{
+    optional  int32   id=1;
+}
+
+message  RoleQueryInfoReq
+{
+
+}
+
+message  RoleQueryInfoRsp
+{
+  
+}
+
+

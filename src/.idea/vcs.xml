@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/github.com/acroca/go-symbols" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/astaxie/beego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/cweill/gotests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/derekparker/delve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/fatih/gomodifytags" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/frankban/quicktest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-delve/delve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-ini/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/dep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/glog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/lint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/google/btree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/google/go-cmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/haya14busa/goplay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/josharian/impl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/json-iterator/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/karrick/godirwalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/kr/pretty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/kr/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/lukehoban/go-find-references" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/lukehoban/go-outline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/lukehoban/ident" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mdempsky/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/modern-go/concurrent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/modern-go/reflect2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/newhook/go-symbols" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/nsf/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/panjf2000/gnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/peterbourgon/diskv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/pkg/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/pquerna/ffjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/rogpeppe/fastuuid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/rogpeppe/godef" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/skratchdot/open-golang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/sqs/goreturns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/tallstoat/pbparser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/tealeg/xlsx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/toolkits/file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/tools/godep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/uudashr/gopkgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/wonderivan/logger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/yuin/gopher-lua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-im-robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go.uber.org/atomic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go.uber.org/multierr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go.uber.org/zap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/lint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gotools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/push_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sourcegraph.com/sqs/goreturns" vcs="Git" />
+  </component>
+</project>
