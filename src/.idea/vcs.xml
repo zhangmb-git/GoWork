@@ -1,58 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/BurntSushi/toml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/Luxurioust/excelize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/StackExchange/wmi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/acroca/go-symbols" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/alberliu/gn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/astaxie/beego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/bazelbuild/bazelisk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/beorn7/perks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/bitly/go-hostpool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/bitly/timer_metrics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/blang/semver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/bmizerany/assert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/bmizerany/perks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/cespare/xxhash" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/cweill/gotests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/derekparker/delve" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/fatih/gomodifytags" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/frankban/quicktest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/garyburd/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gin-contrib/sse" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/go-delve/delve" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/go-ini/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-ole/go-ole" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-playground/locales" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-playground/universal-translator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-playground/validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-redis/redis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/crypto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/golang/dep" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/golang/glog" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/golang/lint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/mod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/net" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/snappy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/xerrors" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/google/btree" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/google/go-cmp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/grpc/grpc-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/hashicorp/go-version" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/haya14busa/goplay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/josharian/impl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/json-iterator/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/judwhite/go-svc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/julienschmidt/httprouter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/karalabe/xgo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/karrick/godirwalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/konsorten/go-windows-terminal-sequences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/kr/godep" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/kr/pretty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/kr/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/larspensjo/config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/leodido/go-urn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/lukehoban/go-find-references" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/lukehoban/go-outline" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/lukehoban/ident" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mattn/go-isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/matttproud/golang_protobuf_extensions" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/mdempsky/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mitchellh/go-homedir" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/modern-go/concurrent" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/modern-go/reflect2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mohae/deepcopy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mreiferson/go-options" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/newhook/go-symbols" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/nsf/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/nsqio/go-diskqueue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/nsqio/go-nsq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/nsqio/nsq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/panjf2000/gnet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/peterbourgon/diskv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/pkg/errors" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/pquerna/ffjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/prometheus/client_golang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/prometheus/client_model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/prometheus/common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/rogpeppe/fastuuid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/rogpeppe/godef" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shabbyrobe/xmlwriter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shirou/gopsutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/sirupsen/logrus" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/skratchdot/open-golang" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/sqs/goreturns" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/tallstoat/pbparser" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/tealeg/xlsx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/toolkits/file" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/tools/godep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/tpng/gopkgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/ugorji/go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/uudashr/gopkgs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/wonderivan/logger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/yuin/gopher-lua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/zmb3/gogetdoc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-im-robot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go.uber.org/atomic" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go.uber.org/multierr" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go.uber.org/zap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/crypto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/golang.org/x/lint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/mod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/text" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/golang.org/x/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/xerrors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google.golang.org/genproto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google.golang.org/grpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google.golang.org/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopkg.in/natefinch/lumberjack.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopkg.in/yaml.v2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gotools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/push_server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sourcegraph.com/sqs/goreturns" vcs="Git" />
